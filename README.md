@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Nxance MVP Web
 
-## Getting Started
+Next.js 16 + TypeScript + Tailwind dashboard for **Nxance Premium Wealth** — marketing site, auth flow, Health Check, Construction, Portfolio, and Nxance AI.
 
-First, run the development server:
+## Stack
+
+- Next.js App Router (`16.3.3`)
+- React 19 + TypeScript
+- Tailwind CSS 4
+
+## Local development
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Useful routes
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Route | Description |
+|-------|-------------|
+| `/` | Marketing landing |
+| `/login` | Sign in |
+| `/dashboard` | Main dashboard |
+| `/dashboard/portfolio` | Combined Health Check + Construction portfolio |
+| `/dashboard/health-check` | Health Check flow |
+| `/dashboard/construction` | Construction questionnaire |
+| `/dashboard/nxance-ai` | Nxance LM chat |
 
-## Learn More
+## Scripts
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run dev      # development server
+npm run build    # production build
+npm run start    # serve production build
+npm run lint     # ESLint
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Deploy to GitHub + Vercel
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 1. Push to GitHub
 
-## Deploy on Vercel
+1. Create a new empty repository on [GitHub](https://github.com/new) (no README).
+2. In this project folder, run:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+git add .
+git commit -m "Ship Nxance MVP web app"
+git branch -M main
+git remote add origin https://github.com/<YOUR_USERNAME>/<YOUR_REPO>.git
+git push -u origin main
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 2. Deploy on Vercel
+
+1. Go to [vercel.com/new](https://vercel.com/new)
+2. Import the GitHub repository
+3. Framework preset: **Next.js** (auto-detected)
+4. Build command: `npm run build`
+5. Output: default (no change needed)
+6. Click **Deploy**
+
+Every push to `main` will auto-redeploy.
+
+## Notes
+
+- Client-only unlock flags and recent activity use `localStorage` (demo MVP).
+- No backend/env secrets required for the current static MVP.
