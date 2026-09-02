@@ -18,7 +18,7 @@ const mainNavItems: { label: string; href: string; icon: ReactNode }[] = [
 const bottomNavItems: { label: string; href: string; icon: ReactNode; danger?: boolean }[] = [
   { label: "Settings", href: "#", icon: <GearIcon /> },
   { label: "Help", href: "#", icon: <HelpIcon /> },
-  { label: "Sign Out", href: "/login", icon: <SignOutIcon />, danger: true },
+  { label: "Sign Out", href: "/", icon: <SignOutIcon />, danger: true },
 ];
 
 type DashboardSidebarProps = {
