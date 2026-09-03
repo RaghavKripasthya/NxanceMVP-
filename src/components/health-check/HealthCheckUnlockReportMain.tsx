@@ -101,9 +101,6 @@ export default function HealthCheckUnlockReportMain() {
               &ldquo;Nxance analysis revealed ₹1.2L in hidden tax leakages in my first week.
               Best ₹99 I ever spent.&rdquo;
             </p>
-            <footer className="mt-3 text-xs font-bold uppercase tracking-[0.12em] text-[#94a3b8]">
-              — Arjun K., Venture Partner
-            </footer>
           </blockquote>
         </ScrollReveal>
       </div>
