@@ -19,7 +19,7 @@ export default function HealthCheckResultsFooter() {
               <Logo variant="footer" />
             </Link>
             <p className="mt-2 text-sm text-[#64748b]">
-              © 2024 Nxance Investment Group. All rights reserved.
+            © 2026 Nxance, SEBI compliant.
             </p>
           </div>
           <div className="flex flex-wrap gap-x-5 gap-y-2 text-sm text-[#64748b]">

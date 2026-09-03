@@ -7,7 +7,7 @@ export default function ConstructionPageFooter() {
         <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:gap-6">
           <Logo variant="footer" />
           <p className="text-xs text-[#64748b] sm:text-sm">
-            © 2024 Nxance Investment Group. All rights reserved.
+            © 2026 Nxance, SEBI compliant.
           </p>
         </div>
         <div className="flex flex-wrap gap-x-5 gap-y-2 text-xs text-[#64748b] sm:text-sm">

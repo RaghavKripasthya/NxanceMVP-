@@ -661,7 +661,7 @@ function QuestionnaireFooter() {
             Nxance Investment Group
           </p>
           <p className="mt-1 text-sm text-[#64748b]">
-            © 2024 Nxance Investment Group. All rights reserved.
+            © 2026 Nxance, SEBI compliant.
           </p>
         </div>
         <div className="flex gap-5 text-sm text-[#64748b]">

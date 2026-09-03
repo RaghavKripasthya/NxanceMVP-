@@ -65,7 +65,7 @@ export default function DashboardFooter() {
           </div>
 
           <div className="mt-10 flex flex-col gap-3 border-t border-[#e2e8f0] pt-6 text-sm text-[#64748b] sm:flex-row sm:items-center sm:justify-between">
-            <p>© 2024 Nxance AI. SEBI Registered Investment Advisor.</p>
+            <p>© 2026 Nxance, SEBI compliant.</p>
             <div className="flex items-center gap-5">
               <Link href="#" className="transition-colors hover:text-[#2563eb]">
                 Contact Us

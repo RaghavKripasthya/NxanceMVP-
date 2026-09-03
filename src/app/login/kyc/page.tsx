@@ -40,7 +40,7 @@ export default function KYCPage() {
 
       <footer className="flex flex-col items-center gap-4 border-t border-[#e2e8f0]/80 px-5 py-6 text-center sm:flex-row sm:items-center sm:justify-between sm:px-8 sm:text-left lg:px-10">
         <p className="text-[10px] uppercase tracking-[0.12em] text-[#94a3b8] sm:text-[11px]">
-          © 2024 Nxance Fintech. Secure 256-bit AES Encryption.
+          © 2026 Nxance, SEBI compliant.
         </p>
         <div className="flex flex-wrap items-center justify-center gap-4 text-xs text-[#94a3b8] sm:gap-5 sm:text-sm">
           <a href="#" className="transition-colors hover:text-[#64748b]">

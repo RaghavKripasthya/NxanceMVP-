@@ -16,7 +16,7 @@ const faqItems = [
   {
     question: "Is this a SEBI registered platform?",
     answer:
-      "Yes. Nxance operates as a SEBI-registered platform, adhering to regulatory standards for financial intelligence and investor protection in India.",
+      "Not yet, we are currently building techstack while we complete our SEBI registration, expected once funding closes - and we hold ourselves to SEBI's compliance standards regardless.",
   },
 ] as const;
 

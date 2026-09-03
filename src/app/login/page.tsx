@@ -30,7 +30,7 @@ export default function LoginPage() {
           </a>
         </div>
         <p className="text-[10px] uppercase tracking-[0.12em] text-[#94a3b8] sm:text-[11px]">
-          © 2024 Nxance AI • SEBI Registered Investment Advisor
+          © 2026 Nxance, SEBI compliant
         </p>
       </div>
     </div>

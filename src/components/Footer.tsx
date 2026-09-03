@@ -100,7 +100,7 @@ export default function Footer() {
         <ScrollReveal delay={120}>
           <div className="mt-10 flex flex-col gap-4 border-t border-[#e2e8f0] pt-8 sm:mt-12 sm:flex-row sm:items-center sm:justify-between">
             <p className="text-xs text-[#94a3b8] sm:text-sm">
-              © 2024 Nxance AI. SEBI Registered Investment Advisor.
+              © 2026 Nxance, SEBI compliant.
             </p>
             <div className="flex items-center gap-2">
               <span

@@ -15,7 +15,7 @@ export default function CompleteProfilePage() {
 
       <footer className="pb-8 text-center">
         <p className="text-xs text-[#94a3b8] sm:text-sm">
-          © 2024 Nxance AI. SEBI Registered Investment Advisor.
+          © 2026 Nxance, SEBI compliant.
         </p>
       </footer>
     </div>

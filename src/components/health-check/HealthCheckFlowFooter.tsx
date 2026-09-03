@@ -19,7 +19,7 @@ export default function HealthCheckFlowFooter() {
           ))}
         </div>
         <p className="mt-4 text-xs leading-relaxed text-[#94a3b8] sm:text-sm">
-          © 2024 Nxance Financial Technologies. All rights reserved. SIPC/FINRA Member.
+          © 2026 Nxance, SEBI compliant.
         </p>
       </footer>
     </ScrollReveal>

@@ -335,7 +335,7 @@ function UpgradeFooter() {
 
         <div className="mt-8 border-t border-[#e2e8f0] pt-6">
           <p className="text-xs text-[#94a3b8] sm:text-sm">
-            © 2024 Nxance AI. SEBI Registered Investment Advisor.
+            © 2026 Nxance, SEBI compliant.
           </p>
         </div>
       </div>

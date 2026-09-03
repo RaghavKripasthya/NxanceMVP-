@@ -191,8 +191,7 @@ function ProcessingFooter() {
     <footer className="mx-auto mt-auto w-full max-w-5xl border-t border-[#e2e8f0] pt-6">
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <p className="text-xs text-[#64748b] sm:text-sm">
-          <span className="font-bold text-[#2563eb]">Nxance</span> © 2024. SEBI Registered
-          Investment Advisor.
+          © 2026 Nxance, SEBI compliant.
         </p>
         <div className="flex flex-wrap gap-4 text-xs font-medium text-[#2563eb] sm:text-sm">
           <a href="#" className="hover:underline">

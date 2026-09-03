@@ -168,7 +168,7 @@ function UnlockReportFooter() {
 
         <div className="mt-8 flex w-full flex-col gap-3 border-t border-[#e2e8f0] pt-6 sm:flex-row sm:items-center sm:justify-between">
           <p className="text-xs text-[#94a3b8] sm:text-sm">
-            © 2024 Nxance AI. SEBI Registered Investment Advisor.
+            © 2026 Nxance, SEBI compliant.
           </p>
           <div className="flex items-center gap-4 text-[#94a3b8] sm:ml-auto">
             <button

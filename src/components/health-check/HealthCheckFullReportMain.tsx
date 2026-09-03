@@ -446,7 +446,7 @@ function FullReportFooter() {
           <Logo variant="footer" />
         </Link>
         <p className="mt-3 max-w-2xl text-xs leading-relaxed text-[#94a3b8] sm:text-sm">
-          © 2024 Nxance AI. SEBI Registered Investment Advisor (INA000012345). Investment in
+          © 2026 Nxance, SEBI compliant. Investment in
           securities market are subject to market risks.
         </p>
       </div>

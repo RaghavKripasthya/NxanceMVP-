@@ -15,7 +15,7 @@ export default function VerifyOTPPage() {
 
       <footer className="flex flex-col items-center gap-4 px-5 pb-8 text-center sm:flex-row sm:items-center sm:justify-between sm:px-8 sm:text-left md:px-12">
         <p className="text-xs text-[#94a3b8] sm:text-sm">
-          © 2024 Nxance AI. SEBI Registered Investment Advisor.
+          © 2026 Nxance, SEBI compliant.
         </p>
         <div className="flex items-center gap-5 text-xs text-[#94a3b8] sm:text-sm">
           <a href="#" className="transition-colors hover:text-[#64748b]">

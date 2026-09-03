@@ -65,10 +65,7 @@ export default function HealthCheckFooter() {
           </div>
 
           <p className="mt-10 border-t border-[#e2e8f0] pt-6 text-sm text-[#64748b]">
-            © 2024 Nxance AI.{" "}
-            <span className="font-medium text-[#475569]">
-              SEBI Registered Investment Advisor.
-            </span>
+            © 2026 Nxance, SEBI compliant.
           </p>
         </div>
       </footer>
