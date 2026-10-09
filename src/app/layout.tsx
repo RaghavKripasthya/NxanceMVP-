@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Nxance AI",
+  title: "Nxance",
   description: "Nxance — Intelligent solutions for modern teams",
   icons: {
     icon: [{ url: "/nxance-favicon.png", type: "image/png" }],
