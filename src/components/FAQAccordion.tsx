@@ -6,7 +6,7 @@ const faqItems = [
   {
     question: "About the Company",
     answer:
-      "Nxance is an enterprise-grade, cloud-native financial technology platform engineered by Ohshn Intelligence LLP. Designed for the modern era of wealth management, the software leverages a high-scalability architecture to deliver powerful, low-cost investment infrastructure tailored for the rapidly expanding global retail investor ecosystem.",
+      "Nxance is an enterprise-grade, cloud-native financial technology platform engineered by Ohshn Intelligence LLP. Designed for the modern era of wealth management, the software leverages a high-scalability architecture to deliver powerful, low-cost investment infrastructure tailored for the rapidly expanding global investor ecosystem.",
   },
   {
     question: "Is my data safe with Nxance?",
