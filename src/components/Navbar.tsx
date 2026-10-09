@@ -35,7 +35,7 @@ export default function Navbar() {
               href="#"
               className="rounded-full bg-gradient-to-r from-[#2563eb] to-[#7c3aed] px-3.5 py-2 text-[11px] font-bold text-white shadow-[0_4px_14px_rgba(37,99,235,0.35)] transition-transform hover:scale-[1.02] active:scale-[0.98] sm:px-5 sm:py-2.5 sm:text-sm"
             >
-              Nxance AI
+              Nxance 
             </Link>
           </div>
         </nav>
