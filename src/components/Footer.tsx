@@ -28,8 +28,7 @@ export default function Footer() {
                 <Logo variant="footer" />
               </Link>
               <p className="mt-5 text-sm leading-relaxed text-[#64748b] sm:text-base">
-                Empowering the next generation of investors with
-                institution-grade artificial intelligence.
+              © 2026 Ohshn Intelligence LLP.<br/> Nxance is a product of Ohshn Intelligence LLP. LLPIN: ACZ-7676<br/> Contact:projectmanagement@nxance.com<br/> Nxance provides analytical information and tools. It is not investment advice.<br/> Investments in securities are subject to market risks.
               </p>
               <div className="mt-5 flex items-center gap-4 text-[#64748b]">
                 <a
