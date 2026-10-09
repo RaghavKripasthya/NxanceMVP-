@@ -10,7 +10,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Nxance AI",
-  description: "Nxance AI — Intelligent solutions for modern teams",
+  description: "Nxance — Intelligent solutions for modern teams",
   icons: {
     icon: [{ url: "/nxance-favicon.png", type: "image/png" }],
     apple: [{ url: "/nxance-favicon.png", type: "image/png" }],
